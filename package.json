@@ -1,0 +1,12 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "algorithm",
+  "license": "ISC",
+  "author": "asadbook-dev",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
